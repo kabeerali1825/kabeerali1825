@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking forward to Collab with **Your Projects**
 
-- 👀 I’m interested in *Full Stack Development * Web Development *Machine Learning -Software Architect *Cyber Security*
+- 👀 I’m interested in *Full Stack Web Development using Different programming Language , Cyber Security , Mobile App development
 
 - Connection Email: **kabeeransari2003@gmail.com**
 
