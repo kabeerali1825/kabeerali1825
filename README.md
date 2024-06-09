@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kabeer Ali</h1>
-<h3 align="center">A passionate Full Stack MERN and Django Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Full Stack . Net Developer from Pakistan 🇵🇰</h3>
 
 - 🔭 I’m currently working on **Virtual Art Gallery Project**
 
