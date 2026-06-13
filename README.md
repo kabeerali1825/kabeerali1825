@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kabeer Ali</h1>
-<h3 align="center">A passionate Full Stack . Net Developer at Illumina Technology Solutions Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Full Stack . Net Developer at Stretagic Systems International Pakistan 🇵🇰</h3>
 
 - 🔭 I’m currently working on **DotNet and Microsoft Azure Projects**
 
